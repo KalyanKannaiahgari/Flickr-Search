@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Flickrsearch" parent="android:Theme.Material.Light.NoActionBar"
+        >
+    <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>
+    <item name="windowSplashScreenBackground">@color/white</item>
+    </style>
+</resources>
